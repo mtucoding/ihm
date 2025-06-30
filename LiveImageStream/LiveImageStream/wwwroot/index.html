@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Live Image Feed</title>
+</head>
+<body>
+    <h2>Live View from Raspberry Pi</h2>
+    <img id="liveImage" width="640" height="480" />
+    <script>
+        setInterval(() => {
+            document.getElementById("liveImage").src =
+                "/api/ImageProxy/latest?ts=" + new Date().getTime(); // Prevent caching
+        }, 300); // Change interval for faster/slower streaming
+    </script>
+</body>
+</html>
