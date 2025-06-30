@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "ImageUploadApi.Controllers.ImageProxyController",
+    "ContainingType": "LiveImageStream.Controllers.ImageProxyController",
     "Method": "GetLatestImage",
     "RelativePath": "api/ImageProxy/latest",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ImageUploadApi.Controllers.ImageProxyController",
+    "ContainingType": "LiveImageStream.Controllers.ImageProxyController",
     "Method": "UploadImage",
     "RelativePath": "api/ImageProxy/upload",
     "HttpMethod": "POST",

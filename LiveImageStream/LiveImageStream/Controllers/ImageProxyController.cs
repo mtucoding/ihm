@@ -1,7 +1,7 @@
 ﻿using LiveImageStream.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace ImageUploadApi.Controllers
+namespace LiveImageStream.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
