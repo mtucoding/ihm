@@ -1,0 +1,6 @@
+@LiveImageStream_HostAddress = http://localhost:5091
+
+GET {{LiveImageStream_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
