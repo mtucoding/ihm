@@ -29,4 +29,3 @@ C:\Users\IOT-1\AspDotNetProject\LiveImageStream\LiveImageStream\bin\Debug\net8.0
 C:\Users\IOT-1\AspDotNetProject\LiveImageStream\LiveImageStream\bin\Debug\net8.0\LiveImageStream.pdb
 C:\Users\IOT-1\AspDotNetProject\LiveImageStream\LiveImageStream\obj\Debug\net8.0\LiveImageStream.genruntimeconfig.cache
 C:\Users\IOT-1\AspDotNetProject\LiveImageStream\LiveImageStream\obj\Debug\net8.0\ref\LiveImageStream.dll
-C:\Users\IOT-1\AspDotNetProject\LiveImageStream\LiveImageStream\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
