@@ -4,6 +4,6 @@ namespace LiveImageStream.Models
 {
     public class ImageUploadDto
     {
-        public IFormFile Image { get; set; }
+        public IFormFile? Image { get; set; }
     }
 }
